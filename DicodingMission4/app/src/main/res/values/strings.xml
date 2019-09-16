@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="tv">Tv</string>
+    <string name="movie">Movie</string>
+    <string name="tanggal">Date</string>
+    <string name="deskripsi">Description</string>
+    <string name="daftar_film">Movie List</string>
+    <string name="foto_film">Movie Image</string>
+    <string name="foto">Photo</string>
+    <string name="change_language_settings">Language Settings</string>
+
+    <string name="language">en-US</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_to_favorite">Add to Favorite</string>
+    <string name="delete_favorite">Unfavorite</string>
+    <string name="remove_favorite">Remove Favorite Movie</string>
+    <string name="toast_add">The movie was successfully added to the Favorites List</string>
+    <string name="toast_remove">The movie was successfully deleted to the Favorites List</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
